@@ -1,6 +1,6 @@
 # Project Euler Problems
 
-This is a collection of my solutions to a series of [Project Euler](https://projecteuler.net) mathematical problems encoded in Python.
+This is a collection of my solutions to a series of [Project Euler](https://projecteuler.net) mathematical and coding problems encoded in Python.
 
 The solutions are consolidated into Jupyter notebooks containing problems as sets of 10.
 
